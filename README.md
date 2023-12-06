@@ -1,4 +1,4 @@
-# Flip-Bit 👻
+# FlipBit 👻
 
 # About Me
 * Cyber Sec Student
