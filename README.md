@@ -4,7 +4,7 @@
 * Cyber Sec Student
 * Currently learning Full Stack Web Development @ LEARN Academy
 
-<center>  (╯°Д°)╯︵ ┻━┻ ︵╰(°□°╰) </center> 
+# ---------------------------------------------- (╯°Д°)╯︵ ┻━┻ ︵╰(°□°╰) ---------------------------------------------------------- 
 
 
 
