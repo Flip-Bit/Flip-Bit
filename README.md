@@ -1,7 +1,7 @@
 # FlipBit 👻
 
 # About Me
-* Cyber Sec Student
+* Life Long Cyber Student
 * Currently learning Full Stack Web Development @ LEARN Academy
 
 # ------- (╯°Д°)╯︵ ┻━┻ ︵╰(°□°╰) -------
