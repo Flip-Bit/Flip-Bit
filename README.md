@@ -2,7 +2,7 @@
 
 # About Me
 * Life Long Cyber Student
-* Currently learning Full Stack Web Development @ LEARN Academy
+* "Mix things up, see what happens" --_(o.O)_--
 
 # ------- (╯°Д°)╯︵ ┻━┻ ︵╰(°□°╰) -------
 
